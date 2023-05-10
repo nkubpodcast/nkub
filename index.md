@@ -18,9 +18,9 @@ Podcast në gjuhën e nënës. Mirë se t'na vini n'Kub.
 
 <center>
 <div>
-    <img alt="Spotify logo" src="{{ site.baseurl }}/assets/img/spotifyweb.png" height="50">
-    <img alt="Insta logo" src="{{ site.baseurl }}/assets/img/instaweb.png" height="55">
-    <img alt="YT logo" src="{{ site.baseurl }}/assets/img/ytweb.png" height="50">
+    <a href="https://open.spotify.com/embed/episode/5VdNFXwIC7sL7hGNz4TFPn/video?utm_source=generator"  target="_blank" > <img alt="Spotify logo" src="{{ site.baseurl }}/assets/img/spotifyweb.png" height="50"> </a>
+    <a href= "https://www.instagram.com/nkub.podcast/" target="_blank"> <img alt="Insta logo" src="{{ site.baseurl }}/assets/img/instaweb.png" height="55"> </a>
+    <a href="https://www.youtube.com/watch?v=OQGlmLhAoVE&t=2s"  target="_blank" > <img alt="YT logo" src="{{ site.baseurl }}/assets/img/ytweb.png" height="50">  </a>
 
 
 </div>
