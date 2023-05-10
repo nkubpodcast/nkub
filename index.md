@@ -8,7 +8,7 @@ subtitle: Mirë se t'na vini!
 ---
 
 Podcast në gjuhën e nënës. Mirë se t'na vini n'Kub. 
-## Te reja
+## Të reja
 
 <center>
 
