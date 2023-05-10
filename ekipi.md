@@ -26,10 +26,10 @@ td, th {
 <tr>
     <td> - Marseille, France  </td>
     <td> - Vaduz, Liechtenstein </td>
-    <td> - Basel, Zvicwr </td>
+    <td> - Basel, Zvicër </td>
 <tr>
     <td> - PhD Biofizikë  </td>
-    <td> - PhD Taksa Ndërkombwtare </td>
+    <td> - PhD Taksa Ndërkombëtare </td>
     <td> - Arkitekt </td>
     
 <tr>
