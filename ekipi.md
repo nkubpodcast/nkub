@@ -4,10 +4,6 @@ subtitle: Ekipi
 permalink: /ekipi
 ---
 
-layout: default
-subtitle: Ekipi
-permalink: /ekipi
----
 
 <style>
 td, th {
