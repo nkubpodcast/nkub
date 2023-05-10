@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+subtitle: Mirë se t'na vini!
+
 ---
 <center>
 Podcast në gjuhën e nënës. Mirë se t'na vini n'Kub. 
