@@ -8,10 +8,10 @@ subtitle: Mirë se t'na vini!
 ---
 
 Podcast në gjuhën e nënës. Mirë se t'na vini n'Kub. 
-
+## Te reja
 
 <center>
-## Te reja
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OQGlmLhAoVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </center>
