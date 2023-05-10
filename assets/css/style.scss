@@ -2,10 +2,10 @@
 --- 
 
 // https://imagecolorpicker.com/color-code/9ce6cd
-$green: #9ce6cd;
-$green_dark10: #8ccfb9;
-$green_dark20: #6da190;
-$header-bg-color: $green !default;
+$green: #576756;
+$green_dark20: #76beae;
+$green_dark10: #9fbc9d;
+$header-bg-color: $green_dark10 !default;
 $header-bg-color-secondary: $green !default;
 $section-headings-color: $green_dark10 !default;
 
@@ -17,10 +17,10 @@ a {
 
 #tabs {
     text-align: center;
-    color: $green;
+    color: $green_dark10;
 
     a {
-        color: $green;
+        color: $green_dark10;
     }
 
     @include large {
