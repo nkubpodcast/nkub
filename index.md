@@ -10,8 +10,17 @@ subtitle: Mirë se t'na vini!
 Podcast në gjuhën e nënës. Mirë se t'na vini n'Kub. 
 ## Te reja
 
-<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OQGlmLhAoVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+
+<center>
+<div>
+    <img alt="Spotify logo" src="{{ site.baseurl }}/assets/img/spotifyweb.png" height="50">
+    <img alt="Insta logo" src="{{ site.baseurl }}/assets/img/instaweb.avif" height="55">
+    <img alt="YT logo" src="{{ site.baseurl }}/assets/img/YTweb.png" height="50">
+
+
+</div>
 </center>
