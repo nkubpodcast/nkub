@@ -5,7 +5,7 @@
 layout: default
 ---
 
-Podcast ne gjuhen e nenes. Mire se t'na vini n'Kub. 
+Podcast në gjuhën e nënës. Mirë se t'na vini n'Kub. 
 
 
 
