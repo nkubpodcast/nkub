@@ -18,8 +18,8 @@ Podcast në gjuhën e nënës. Mirë se t'na vini n'Kub.
 <center>
 <div>
     <img alt="Spotify logo" src="{{ site.baseurl }}/assets/img/spotifyweb.png" height="50">
-    <img alt="Insta logo" src="{{ site.baseurl }}/assets/img/instaweb.avif" height="55">
-    <img alt="YT logo" src="{{ site.baseurl }}/assets/img/YTweb.png" height="50">
+    <img alt="Insta logo" src="{{ site.baseurl }}/assets/img/instaweb.png" height="55">
+    <img alt="YT logo" src="{{ site.baseurl }}/assets/img/ytweb.png" height="50">
 
 
 </div>
