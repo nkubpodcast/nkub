@@ -1,5 +1,6 @@
 ---
 layout: default
+title: podcast
 subtitle: Kontakt
 permalink: /kontakt
 ---

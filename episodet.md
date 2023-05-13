@@ -1,5 +1,6 @@
 ---
 layout: default
+title: podcast
 subtitle: Episodet
 permalink: /episodet
 ---

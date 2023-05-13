@@ -1,9 +1,10 @@
 - name: N'kub 
   link: /
 - name: Njihuni me Ekipin
-  link: ekipi
+  link: /ekipi
 - name: Episodet
-  link: episodet
+  link: /episodet
 - name: Kontakt
-  link: kontakt
+  link: /kontakt
+
 

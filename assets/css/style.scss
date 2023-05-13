@@ -2,25 +2,27 @@
 --- 
 
 // https://imagecolorpicker.com/color-code/9ce6cd
-$green: #576756;
-$green_dark20: #76beae;
-$green_dark10: #9fbc9d;
-$header-bg-color: $green_dark10 !default;
-$header-bg-color-secondary: $green !default;
-$section-headings-color: $green_dark10 !default;
+$orange: #d6b579;
+$orange_dark20: #7c2e19e9 ;
+$orange_dark10: #7c2e1986;
+$header-bg-color: $orange !default;
+$header-bg-color-secondary: $orange !default;
+$section-headings-color: $orange_dark20 !default;
 
 @import "{{ site.theme }}";
-
+header {
+  height: 360px; /* set the height of the header to 100 pixels */
+}
 a {
-    color: $green_dark20
+    color: $orange_dark20
 }
 
 #tabs {
     text-align: center;
-    color: $green_dark10;
+    color: $orange_dark20;
 
     a {
-        color: $green_dark10;
+        color: $orange;
     }
 
     @include large {
@@ -37,8 +39,16 @@ a {
 
       margin-bottom: 50px;
 }
+.project-name {
+  color: #7c2e19a6;
+  margin-top: -20px;
+  margin-bottom: -10px;
+
+  
+}
 
 .project-tagline {
+    color: #7c2e19a6;
     margin-bottom: 2rem;
     font-weight: normal;
     opacity: 0.7;
@@ -54,4 +64,16 @@ a {
     @include small {
       font-size: 1.15rem;
     }
+    margin-bottom: 20px;
+    margin-top: 40px;
+  }
+.social {
+    margin-top: 40px;
+    margin-bottom: -35px;   
+  }
+
+  .logo {
+    margin-top: -40px;
+    margin-bottom: -25px;
+    
   }
