@@ -17,7 +17,7 @@ td, th {
  <tr> 
     <td> <a href="https://www.linkedin.com/in/meti-ibrahimi/"> Meti Ibrahimi </a> </td>
     <td> <a href="https://www.linkedin.com/in/kasem-zotkaj-363899158/"> Semi Zotkaj</a></td>
-    <td> <a href="https://www.linkedin.com/in/suardcengu/"> Tad Cengu </a></td>
+    <td> <a href="https://www.linkedin.com/in/suard-cengu/?originalSubdomain=ch"> Tad Cengu </a></td>
 <tr>
     <td>  Mikpritës në N'kub </td>
     <td>  Mikpritës në N'kub</td>
