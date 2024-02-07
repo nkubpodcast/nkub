@@ -7,7 +7,7 @@ permalink: /episodet
 <center>
 
  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/7CvAbWRzB0cOScML9Jji2N/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4PzYyJS380IfPYPcPm901m/video?utm_source=generator" width="120%" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/35jCHBXtNMlT9j4lxldNMk/video?utm_source=generator" width="30%" height="200"  frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
