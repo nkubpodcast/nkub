@@ -41,4 +41,6 @@ td, th {
     <td>  <img  src="{{ site.baseurl}}/assets/img/metiweb.jpg" width="200"></td>
     <td>  <img  src="{{ site.baseurl}}/assets/img/semiweb.jpg" width="200"></td>
     <td>  <img  src="{{ site.baseurl}}/assets/img/suardweb.jpg" width="200"></td>
+=======
+ {% include ekipi.html %}          
 
