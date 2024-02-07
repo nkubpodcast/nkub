@@ -12,9 +12,8 @@ Podcast në gjuhën e nënës. Mirë se t'na vini n'Kub.
 ## Të reja
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=z86MWtIuSzDeM4ZV&amp;list=PLS5pUGYZQZAxsrwgcJAP63p8wLBP_HLTV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?si=z86MWtIuSzDeM4ZV&amp;list=PLS5pUGYZQZAxsrwgcJAP63p8wLBP_HLTV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<
 </center>
 
 
